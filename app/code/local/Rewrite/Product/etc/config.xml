@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Rewrite_Product>
+            <version>0.2.0</version>
+        </Rewrite_Product>
+    </modules>
+    <global>
+
+
+
+        <models>
+            <catalog>
+                <rewrite>
+                    <product> Rewrite_Product_Model_Product</product>
+                </rewrite>
+            </catalog>
+        </models>
+
+    </global>
+</config>

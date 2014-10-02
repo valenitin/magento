@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<config>
+
+    <modules>
+        <Rewrite_Product>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Catalog />
+            </depends>
+        </Rewrite_Product>
+    </modules>
+</config>
