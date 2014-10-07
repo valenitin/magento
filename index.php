@@ -37,6 +37,10 @@ Whoops, it looks like you have an invalid PHP version.</h3></div><p>Magento supp
 /**
  * Error reporting
  */
+
+/**
+ * Error reporting1111111111111
+ */
 error_reporting(E_ALL | E_STRICT);
 
 /**
